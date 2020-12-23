@@ -1,0 +1,1 @@
+#kubus,balok,kerucut,bola,tabung,limas segitiga,prisma segitiga
